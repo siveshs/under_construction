@@ -1,0 +1,11 @@
+.mainHeader {
+  font-family: monospace;
+  width: 60%;
+  margin: 30% auto 0.5rem auto;
+}
+
+.subHeader {
+  font-family: monospace;
+  width: 60%;
+  margin: 0.5rem auto;
+}
